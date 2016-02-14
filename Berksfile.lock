@@ -55,7 +55,7 @@ DEPENDENCIES
     revision: 66ab1cb4ead5c969eb3b825bc06716d909fc8e73
   logstash
     git: git://github.com/foxycoder/chef-logstash.git
-    revision: 71b3aa2cf4116d04f9fb5272b664e08cf2b1c407
+    revision: db69515c3584bc450b056fffc442c029cf8d52a8
   memcached
     git: git://github.com/chrishenderson/memcached.git
     revision: 83cc33983673b9d750d023d9321209a520e8adde

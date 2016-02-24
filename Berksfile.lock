@@ -80,8 +80,8 @@ DEPENDENCIES
     git: git://github.com/opscode-cookbooks/perl.git
     revision: 285d21e6ae643f5e4e38779fea683a4187136b9e
   php
-    git: git://github.com/opscode-cookbooks/php.git
-    revision: c6a314b5eef964378d40d0c8b660e522b4cc51ab
+    git: git://github.com/goke-epapa/php.git
+    revision: 00d14e0a9fc05a17aecb9dcd767af4bd1578cf01
   postfix
     git: git://github.com/opscode-cookbooks/postfix.git
     revision: 4143c363c1d7b2a86d194228ed716e81cee8cde2

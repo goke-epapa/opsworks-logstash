@@ -65,7 +65,7 @@ cookbook 'openssl', git: 'git://github.com/opscode-cookbooks/openssl.git'
 #[submodule "perl"]
 cookbook 'perl', git: 'git://github.com/opscode-cookbooks/perl.git'
 #[submodule "php"]
-cookbook 'php', git: 'git://github.com/opscode-cookbooks/php.git'
+cookbook 'php', git: 'git://github.com/goke-epapa/php.git'
 #[submodule "postfix"]
 cookbook 'postfix', git: 'git://github.com/opscode-cookbooks/postfix.git'
 #[submodule "python"]

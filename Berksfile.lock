@@ -65,6 +65,9 @@ DEPENDENCIES
   nagios
     git: git://github.com/opscode-cookbooks/nagios.git
     revision: 22bc548770c63ced04709ebe8c73e0ef36e67160
+  newrelic
+    git: git://github.com/escapestudios-cookbooks/newrelic.git
+    revision: 3c2bb06747bf343dd960b684a08f4f50b7ed80ba
   nginx (~> 2.7.4)
   ntp
     git: git://github.com/opscode-cookbooks/ntp.git

@@ -91,4 +91,4 @@ cookbook 'htpasswd', git: 'git://github.com/Youscribe/htpasswd-cookbook.git'
 #[submodule "rabbitmq_cluster"]
 cookbook 'rabbitmq_cluster', git: 'git://github.com/chrishenderson/rabbitmq_cluster.git'
 #[submodule "newrelic"]
-cookbook 'newrelic', git: 'git@github.com:escapestudios-cookbooks/newrelic.git'
+cookbook 'newrelic', git: 'git://github.com:escapestudios-cookbooks/newrelic.git'
